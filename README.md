@@ -6,6 +6,7 @@
 Andres David Becerra Dimate  - **COD. 2020** </br>
 Juan Felipe Rodríguez Galindo  - **COD. 20181020158**
 <br></br>
+
 [![Juan Felipe Rodriguez Galindo](https://img.shields.io/badge/Juferoga-github-br?style=flat-square)](https://gitlab.com/Juferoga)
 [![License](https://img.shields.io/badge/License-GPL_V.3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 
