@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/Juferoga/arquitectura/main/assets/Escudo_UD_H.svg" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 </br>
-Andres David Becerra Dimate  - **COD. 2020** </br>
-Juan Felipe Rodríguez Galindo  - **COD. 20181020158**
+Andres David Becerra Dimate  - <strong>COD. 2020</strong> </br>
+Juan Felipe Rodríguez Galindo  - <strong>COD. 20181020158</strong>
 <br></br>
 
 [![Juan Felipe Rodriguez Galindo](https://img.shields.io/badge/Juferoga-github-br?style=flat-square)](https://gitlab.com/Juferoga)
